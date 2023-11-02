@@ -15,4 +15,15 @@ module.exports = {
     },
   },
   plugins: [],
+  extend:{
+    colors: {
+      green: '#96BB7C',
+      lighten:'#272042',
+      cardText:'#888888',
+      cardHead:'#272727',
+      cardPara:'#5F5F5F',
+      borderColor:'#DADADA',
+    }
+  }
+
 }
