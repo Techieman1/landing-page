@@ -30,7 +30,11 @@ function Product({src}) {
                       </div>
                       <div className="des text-sm leading-5 tracking-wide mt-2.5">
                         We focus on ergonomics and <br />
+<<<<<<< HEAD
                         meeting you where you work. It&apos;s <br />
+=======
+                       meeting you where you work. It&apos;s <br />
+>>>>>>> 18174e939b6cb911dd66ddb2007a238119b9584c
                         only a keystroke away.
                       </div>
                       <div className="items-start flex w-[83px] max-w-full gap-2.5 mt-2.5 ">
